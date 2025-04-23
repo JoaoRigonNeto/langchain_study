@@ -1,0 +1,4 @@
+langchain
+langchain-ollama
+openai
+python-dotenv
