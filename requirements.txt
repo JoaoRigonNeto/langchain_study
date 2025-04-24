@@ -1,4 +1,6 @@
 langchain
 langchain-ollama
+langgraph
 openai
 python-dotenv
+faker
